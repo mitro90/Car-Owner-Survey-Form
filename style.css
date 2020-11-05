@@ -1,0 +1,74 @@
+#main {
+  text-align: center;
+  font-family: sans-serif;
+  background-image: linear-gradient(to bottom right, #8ac9f3, #a75ef5);
+  color: white;
+}
+
+#title {
+  font-size: 48px;
+  padding-top: 20px;
+  margin-bottom: 20px;
+}
+
+#description {
+  font-size: 1.5rem;
+  padding: 0 0 20px 0;
+}
+
+#survey-form {
+  box-shadow: 6px 10px 15px rgba(0, 0, 0, 0.6);
+  width: 640px;
+  padding: 30px;
+  margin: auto;
+  border-radius: 10px;
+  text-align: left;
+  background-color: rgba(0, 0, 0, 0.6);
+  font-size: 20px;
+  color: white;
+}
+
+label {
+  font-size: 1.5rem;
+}
+
+#name,
+#email,
+#number {
+  width: 600px;
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+#dropdown {
+  width: 630px;
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.box {
+  margin-top: 20px;
+}
+
+#car-text {
+  width: 600px;
+  padding: 15px;
+  border-radius: 10px;
+  border: none;
+}
+
+#submit {
+  width: 630px;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  background-image: linear-gradient(
+    to right,
+    rgb(67, 69, 70) 40%,
+    rgb(36, 54, 51) 60%
+  );
+}
